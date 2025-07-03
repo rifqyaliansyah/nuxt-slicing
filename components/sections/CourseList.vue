@@ -1,5 +1,5 @@
 <template>
-            <div class="container mx-auto px-6">
+            <div class="container mx-auto px-6 mt-12">
             <div class="flex flex-col md:flex-row items-center justify-between mb-6">
                 <h2 class="text-2xl font-semibold text-gray-800">All <span class="text-green-600">Courses</span> of Edule</h2>
                 <div class="mt-4 md:mt-0">
