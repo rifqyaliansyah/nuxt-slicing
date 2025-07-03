@@ -1,5 +1,5 @@
 <template>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-8">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 gap-y-8 px-8 mr-2">
             <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
