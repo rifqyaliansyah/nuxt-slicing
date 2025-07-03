@@ -1,6 +1,6 @@
 <template>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Design</h3>
@@ -13,7 +13,7 @@
                     <button class="bg-green-600 text-white px-6 py-3 mt-6 rounded-md hover:bg-green-700 transition">Learn More</button>
             </div>
         </div>
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Development</h3>
@@ -26,7 +26,7 @@
                     <button class="bg-green-600 text-white px-6 py-3 mt-6 rounded-md hover:bg-green-700 transition">Learn More</button>
             </div>
         </div>
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Marketing</h3>
@@ -38,7 +38,7 @@
                     <button class="bg-green-600 text-white px-6 py-3 mt-6 rounded-md hover:bg-green-700 transition">Learn More</button>
             </div>
         </div>
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Business</h3>
@@ -48,7 +48,7 @@
                     <button class="bg-green-600 text-white px-6 py-3 mt-6 rounded-md hover:bg-green-700 transition">Learn More</button>
             </div>
         </div>
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Data Science</h3>
@@ -58,7 +58,7 @@
                     <button class="bg-green-600 text-white px-6 py-3 mt-6 rounded-md hover:bg-green-700 transition">Learn More</button>
             </div>
         </div>
-            <div class="bg-white ml-6 mr-6 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+            <div class="bg-white ml-4 mr-2 rounded-lg overflow-hidden shadow hover:shadow-lg transition">
                 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" alt="">
                 <div class="p-4">
                     <h3 class="text-sm text-green-600 font-semibold">Cybersecurity</h3>
