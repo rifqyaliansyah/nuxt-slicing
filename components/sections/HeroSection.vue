@@ -1,6 +1,6 @@
 <template>
         <section class="bg-gray-100 shadow sm py-20">
-        <div class="container mx-auto flex flex-col md:flex-row items-center px-28">
+        <div class="container mx-auto flex flex-col md:flex-row items-center px-12">
             <div class="w-full md:w-1/2 space-y-6">
                 <p class="text-sm text-green-600 font-semibold">Start your favorite course</p>
                 <h1 class="text 4xl md:text-5xl font-bold text-gray-700 leading-tight">Now learning from <br> anywhere, and build <br> your <span class="text-green-600">bright career.</span></h1>

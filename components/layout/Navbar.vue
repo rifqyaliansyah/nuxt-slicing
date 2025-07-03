@@ -1,6 +1,6 @@
 <template>
     <header class="bg-gray-100 shadow sm">
-        <div class="container mx-auto flex items-center justify-between py-4 px-6">
+        <div class="container mx-auto flex items-center justify-between py-4 px-12">
             <div class="text-2xl font-bold text-green-600"><span class="text-gray-700">Edu</span>le</div>
             <nav class="space-x-8 hidden md:flex">
                 <NuxtLink to="/" class="text-gray-700 visited:text-green-600 hover:text-green-600 font-semibold">Home</NuxtLink>
