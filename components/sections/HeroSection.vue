@@ -1,10 +1,10 @@
 <template>
-        <section class="bg-gray-100 shadow sm py-20 pt-44">
+        <section class="bg-gray-100 shadow sm py-24 pt-44">
         <div class="container mx-auto flex flex-col md:flex-row items-center px-12">
-            <div class="w-full md:w-1/2 space-y-6">
-                <p class="text-sm text-green-600 font-semibold">Start your favorite course</p>
+            <div class="w-full md:w-1/2">
+                <p class="text-md text-green-600 font-semibold mb-2">Start your favorite course</p>
                 <h1 class="text 4xl md:text-5xl font-bold text-gray-700 leading-tight">Now learning from <br> anywhere, and build <br> your <span class="text-green-600">bright career.</span></h1>
-                <p class="text-gray-600">
+                <p class="text-gray-600 mt-4 mb-6">
                     It has survived not only five centuries, but also <br> the leap into electronic typesetting.
                 </p>
                 <button class="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-md">Start A Course</button>
