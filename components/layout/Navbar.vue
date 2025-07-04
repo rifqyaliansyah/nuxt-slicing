@@ -3,7 +3,7 @@
         <div class="container mx-auto flex items-center justify-between py-4 px-12">
             <div class="text-2xl font-bold text-green-600"><span class="text-gray-700">Edu</span>le</div>
             <nav class="space-x-8 hidden md:flex">
-                <NuxtLink to="/" class="text-gray-700 visited:text-green-600 hover:text-green-600 font-semibold">Home</NuxtLink>
+                <NuxtLink to="/" class="text-gray-700 hover:text-green-600 font-semibold">Home</NuxtLink>
                 <NuxtLink to="/course" class="text-gray-700 hover:text-green-600 font-semibold">All Courses</NuxtLink>
                 <a href="#" class="text-gray-700 hover:text-green-600 font-semibold">Pages</a>
                 <a href="#" class="text-gray-700 hover:text-green-600 font-semibold">Blog</a>
