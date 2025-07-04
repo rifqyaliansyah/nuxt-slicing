@@ -1,5 +1,5 @@
 <template>
-        <section class="bg-gray-100 shadow sm py-20">
+        <section class="bg-gray-100 shadow sm py-20 pt-44">
         <div class="container mx-auto flex flex-col md:flex-row items-center px-12">
             <div class="w-full md:w-1/2 space-y-6">
                 <p class="text-sm text-green-600 font-semibold">Start your favorite course</p>

@@ -1,5 +1,5 @@
 <template>
-    <header class="bg-gray-100 shadow sm">
+    <header class="bg-gray-100 shadow sm fixed w-full z-50">
         <div class="container mx-auto flex items-center justify-between py-4 px-12">
             <div class="text-2xl font-bold text-green-600"><span class="text-gray-700">Edu</span>le</div>
             <nav class="space-x-8 hidden md:flex">

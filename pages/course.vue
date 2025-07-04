@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="bg-gray-100 py-12 shadow sm">
+        <div class="bg-gray-100 py-12 shadow sm pt-28">
             <h1 class="text-3xl text-gray-800 font-bold text-center mt-6">
             Browse All Courses
         </h1>
